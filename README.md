@@ -12,5 +12,5 @@ A lightweight Telegram bot built with Python and SQLite to manage daily tasks an
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/todo-reminder-bot.git](https://github.com/your-username/todo-reminder-bot.git)
+   git clone [git@github.com:Abbaspour756/todo-reminder-bot.git](git@github.com:Abbaspour756/todo-reminder-bot.git)
    cd todo-reminder-bot
